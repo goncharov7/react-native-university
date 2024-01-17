@@ -6,7 +6,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "axios": "^1.3.4",
+    "axios": "^1.6.5",
     "expo": "^48.0.0",
     "expo-constants": "~14.2.1",
     "expo-font": "~11.1.1",
@@ -27,7 +27,7 @@
   "devDependencies": {
     "@babel/core": "^7.20.0",
     "@babel/plugin-proposal-export-namespace-from": "^7.18.9",
-    "react-native-dotenv": "^3.4.8"
+    "react-native-dotenv": "^3.4.9"
   },
   "resolutions": {
     "metro": "^0.73.7",
